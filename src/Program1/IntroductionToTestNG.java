@@ -16,7 +16,7 @@ public class IntroductionToTestNG {
 	
 	
 	
-	@Test (priority = 3)
+	@Test (priority = 13)
 	public void logout() {
 		System.out.println("Logged out from the application sucessfully");
 	}
@@ -27,7 +27,7 @@ public class IntroductionToTestNG {
 		System.out.println("Url is opened");
 	}
 	
-	@Test (priority = 2)
+	@Test (priority = 12)
 	public void login() {
 		System.out.println("Logged into the application successfully");
 	}
