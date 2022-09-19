@@ -3,7 +3,7 @@ package Program1;
 import org.testng.annotations.Test;
 
 public class IntroductionToTestNG {
-	
+	// my program is succesfully Run
 	// @Test ==> Annotation  ==> @ ==> annotations
 	// 1. open url ==> login ==> logout
 	// output ==> 3 place
